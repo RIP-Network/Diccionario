@@ -12,3 +12,4 @@ chmod +x install.sh
 
 python3 start.py# Diccionario
 # Diccionario
+# PasswordSpain
